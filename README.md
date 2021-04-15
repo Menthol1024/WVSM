@@ -15,7 +15,36 @@
 7. 支持对项目的某些接口做白名单设置;
 ```
 ## 二、功能界面预览
-1，管理台主界面
+
+* 管理台主界面
+
 ![image](https://user-images.githubusercontent.com/34536372/114825497-e25b0c00-9df8-11eb-9312-2b1a79a1b753.png)
-2,新增任务界面
+
+* 新增任务界面
+
 ![image](https://user-images.githubusercontent.com/34536372/114832637-484b9180-9e01-11eb-9441-942d5297c7b0.png)
+
+* 任务列表界面
+
+![image](https://user-images.githubusercontent.com/34536372/114833386-1ab31800-9e02-11eb-90cd-82d6cd4232e4.png)
+
+* 越权扫描任务详情界面
+
+![image](https://user-images.githubusercontent.com/34536372/114833745-7c738200-9e02-11eb-8c29-d88fcecb7cec.png)
+
+* 端口扫描任务详情界面
+
+![image](https://user-images.githubusercontent.com/34536372/114833884-9d3bd780-9e02-11eb-879f-3145915d42ab.png)
+
+* 项目端口扫描结果展示界面
+
+![image](https://user-images.githubusercontent.com/34536372/114834164-e0964600-9e02-11eb-8ce2-da5ec48a85f4.png)
+
+* 项目越权扫描结果展示界面
+
+![image](https://user-images.githubusercontent.com/34536372/114835038-bf822500-9e03-11eb-8749-4701ac1313e2.png)
+
+
+
+
+
