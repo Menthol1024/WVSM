@@ -14,6 +14,20 @@
 6. 支持一键导出项目所有存在越权的URL信息;
 7. 支持对项目的某些接口做白名单设置;
 ```
+* 目前支持检测哪些漏洞 ？
+```
+1. fastjson 反序列化RCE
+2. shiro 反序列化RCE
+3. weblogic 反序列化RCE
+4. redis 未授权漏洞
+5. ZooKeeper未授权访问
+6. Tomcat Ajp 文件读取漏洞
+7. elasticsearch未授权访问漏洞
+8. Docker Remote API 未授权访问漏洞
+9. CVE-2019-7238 Nexus Repository Manager RCE
+```
+还有一些需要后期进行整合
+
 ## 二、功能界面预览
 
 * 管理台主界面
