@@ -14,8 +14,8 @@
 6. 支持一键导出项目所有存在越权的URL信息;
 7. 支持对项目的某些接口做白名单设置;
 ```
-
-
-
+## 二、功能界面预览
 1，管理台主界面
 ![image](https://user-images.githubusercontent.com/34536372/114825497-e25b0c00-9df8-11eb-9312-2b1a79a1b753.png)
+2,新增任务界面
+![image](https://user-images.githubusercontent.com/34536372/114832637-484b9180-9e01-11eb-9441-942d5297c7b0.png)
