@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/34536372/114827807-b9884600-9dfb-11eb-96df-801d38aa490f.png)
 ![image](https://user-images.githubusercontent.com/34536372/114828205-34e9f780-9dfc-11eb-8ee4-a9e41b61b4b5.png)
 ![image](https://img.shields.io/github/stars/Menthol1024/WVSM)
-
+![image](https://img.shields.io/github/v/release/Menthol1024/WVSM?label=wvcm&style=flat-square)
 ## 一、平台简介
 * 目前都有什么功能 ？
 ```
